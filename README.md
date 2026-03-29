@@ -1,11 +1,105 @@
-# 💫 About Me:
-🎓 B.Tech in Computer Science Engineering (Data Science)<br>Pursuing my degree at SICET, Hyderabad, with a strong focus on data-driven technologies and analytical problem-solving.<br><br>💡 Passionate About Data Science & Engineering<br>Deeply interested in Data Science, Python, Data Engineering, and Machine Learning, with a commitment to continuously learning and applying these skills to real-world challenges.<br><br>🧠 Problem Solver & Innovation Enthusiast<br>Enjoy tackling complex problems and building innovative, impactful projects that combine creativity with technology.<br>
+<h1 align="center">Hi 👋, I'm Eshwar Dasari</h1>
+<h3 align="center">🚀 Data Science Enthusiast | Python Developer | Future Data Engineer</h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Data+Science+Explorer;Machine+Learning+Learner;Building+Real+World+Projects;Always+Learning+New+Things" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_eshwar_20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/eshwardasari/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eshwardasari138@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+## 💫 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🎓 B.Tech in Computer Science Engineering (Data Science)  
+📍 Studying at **SICET, Hyderabad**
+
+💡 Passionate about:
+- Data Science  
+- Machine Learning  
+- Data Engineering  
+- Python Development  
+
+🧠 I enjoy solving complex problems and building impactful projects that combine **data + creativity + logic**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://instagram.com/_eshwar_20" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/eshwardasari/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:eshwardasari138@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Languages & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,html,css,django,mysql,postgres" />
+</p>
+
+### ⚡ Data & ML Tools
+<p>
+<img src="https://skillicons.dev/icons?i=sklearn" />
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-white?logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?logo=apachespark&logoColor=black"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Eshwar-138&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshwar-138&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwar-138&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🚀 Featured Projects (Add your best ones)
+
+🔹 Habit Tracker App (with analytics & charts)  
+🔹 Machine Learning Model Projects  
+🔹 Data Analysis Dashboards  
+
+---
+
+## 🧠 Current Focus
+
+- 📊 Advanced Data Science Projects  
+- ⚙️ Data Engineering (ETL pipelines, Airflow, Spark)  
+- 🤖 Machine Learning & AI  
+
+---
+
+## 🔥 Goals
+
+- Become a Data Engineer / Data Scientist  
+- Build impactful real-world projects  
+- Contribute to open source  
+
+---
+
+## ✨ Fun Fact
+
+💡 I believe consistency beats motivation — building habits that build success.
+
+---
+
+<p align="center">
+🔥 “Discipline creates freedom.” 🔥
+</p>
