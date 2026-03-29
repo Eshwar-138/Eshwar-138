@@ -61,15 +61,11 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Eshwar-138&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshwar-138&theme=tokyonight" />
 </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwar-138&layout=compact&theme=tokyonight"/>
 </p>
-
----
-
 ## 🚀 Featured Projects (Add your best ones)
 
 🔹 Habit Tracker App (with analytics & charts)  
